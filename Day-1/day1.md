@@ -30,7 +30,7 @@ Each of these stages plays a crucial role in ensuring seamless and automated del
 ### Objective:
 Write, manage, and collaborate on code efficiently.
 
-### 🧰 Tools & Technologies:
+###  Tools & Technologies:
 - **Version Control:** Git, GitHub, GitLab, Bitbucket  
 - **IDE:** VS Code, IntelliJ, Eclipse  
 - **Project Management:** Jira, Trello  
@@ -51,10 +51,10 @@ Automatically build and test code changes to detect issues early.
 
 ## 3️ Continuous Deployment (CD)
 
-### 🎯 Objective:
+###  Objective:
 Deploy code to production or staging environments automatically and reliably.
 
-### 🧰 Tools & Technologies:
+###  Tools & Technologies:
 - **Containerization:** Docker  
 - **Orchestration:** Kubernetes  
 - **Configuration Management:** Ansible, Puppet, Chef  
@@ -62,21 +62,21 @@ Deploy code to production or staging environments automatically and reliably.
 
 ---
 
-## 4️⃣ Continuous Monitoring
+## 4️ Continuous Monitoring
 
-### 🎯 Objective:
+###  Objective:
 Track application performance, system health, and user activity to ensure stability and quick issue resolution.
 
-### 🧰 Tools & Technologies:
+###  Tools & Technologies:
 - **Monitoring:** Prometheus, Grafana, Nagios, Zabbix  
 - **Logging:** ELK Stack (Elasticsearch, Logstash, Kibana)  
 - **APM Tools:** Datadog, New Relic, Splunk  
 
 ---
 
-## 🧱 Summary Table
+##  Summary Table
 
-| 🔁 Stage                | ✅ Purpose                                      | 🛠️ Key Tools                                      |
+|  Stage                 |  Purpose                                       |    Key Tools                                      |
 |------------------------|------------------------------------------------|---------------------------------------------------|
 | Development            | Writing and managing code                      | Git, GitHub, Jira, VS Code                        |
 | Continuous Integration | Automated building and testing                 | Jenkins, GitHub Actions, SonarQube                |
@@ -85,7 +85,7 @@ Track application performance, system health, and user activity to ensure stabil
 
 ---
 
-## 📚 Conclusion
+##  Conclusion
 
 Understanding the DevOps lifecycle is essential for building robust, scalable, and efficient software systems. Each stage integrates automation and collaboration to ensure smooth and continuous delivery.
 
@@ -93,5 +93,4 @@ In the upcoming sessions, we will dive deeper into each stage with practical exa
 
 ---
 
-### ✍️ _Prepared by: [Your Name]_  
-**DevOps Classroom – Day 1 Assignment**
+
