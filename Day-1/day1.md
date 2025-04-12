@@ -1,16 +1,12 @@
 #  DevOps Training – Day 1 
 
 
-
----
-
 ## Introduction
 
 DevOps is a methodology that bridges the gap between **software development (Dev)** and **IT operations (Ops)**. It aims to shorten the development lifecycle while delivering high-quality software in a continuous and automated manner.
 
 This roadmap provides a foundational overview of the DevOps lifecycle, along with the tools and best practices followed at each stage.
 
----
 
 ## DevOps Lifecycle Overview
 
@@ -23,7 +19,6 @@ The DevOps lifecycle is typically visualized as a continuous loop consisting of 
 
 Each of these stages plays a crucial role in ensuring seamless and automated delivery of applications.
 
----
 
 ## 1️ Development
 
@@ -35,7 +30,7 @@ Write, manage, and collaborate on code efficiently.
 - **IDE:** VS Code, IntelliJ, Eclipse  
 - **Project Management:** Jira, Trello  
 
----
+
 
 ## 2️ Continuous Integration (CI)
 
@@ -47,7 +42,7 @@ Automatically build and test code changes to detect issues early.
 - **Build Tools:** Maven, Gradle, Ant  
 - **Code Quality & Testing:** SonarQube, JUnit, Selenium  
 
----
+
 
 ## 3️ Continuous Deployment (CD)
 
@@ -60,7 +55,7 @@ Deploy code to production or staging environments automatically and reliably.
 - **Configuration Management:** Ansible, Puppet, Chef  
 - **Cloud & Deployment Services:** AWS CodeDeploy, Azure DevOps, Google Cloud Build  
 
----
+
 
 ## 4️ Continuous Monitoring
 
@@ -72,7 +67,7 @@ Track application performance, system health, and user activity to ensure stabil
 - **Logging:** ELK Stack (Elasticsearch, Logstash, Kibana)  
 - **APM Tools:** Datadog, New Relic, Splunk  
 
----
+
 
 ##  Summary Table
 
@@ -83,14 +78,13 @@ Track application performance, system health, and user activity to ensure stabil
 | Continuous Deployment  | Reliable and automated release process         | Docker, Kubernetes, Ansible, AWS CD               |
 | Continuous Monitoring  | Performance monitoring and alerting            | Prometheus, Grafana, ELK Stack, Datadog           |
 
----
+
 
 ##  Conclusion
 
 Understanding the DevOps lifecycle is essential for building robust, scalable, and efficient software systems. Each stage integrates automation and collaboration to ensure smooth and continuous delivery.
 
-In the upcoming sessions, we will dive deeper into each stage with practical examples and hands-on labs.
 
----
+
 
 
