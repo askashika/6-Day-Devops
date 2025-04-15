@@ -1,5 +1,5 @@
 
-#  Devops Training - Day 4 : Kubernetes Deployment with Namespace, Deployment, Service & Jenkins Setup
+#  Devops Training - Day 6 : Kubernetes Deployment with Namespace, Deployment, Service & Jenkins Setup
 
 ##  Step 1: Run the following command to check nodes
 ```bash
